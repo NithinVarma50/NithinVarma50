@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @NithinVarma50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm PixelProphett (aka Nithin Varma)!
+Innovative mind | BBA in Business Analytics | Future Techpreneur | Builder of Bold Ideas
 
-<!---
-NithinVarma50/NithinVarma50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about startups & solving real-world business problems
+
+Creating projects like Cloudix, BrainCandy, Waveroo, and the Multidimensional Computer
+
+Learning Data Science & sharpening my skills in analytics
+
+Turning creativity into impact, one idea at a time
+
+
+Let’s connect and create the future!
+
